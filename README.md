@@ -2,7 +2,7 @@
 
 Puzzle game where player must sort all tiles in ascending order, starting from the top.
 
-Player can choose boards width (level) from 2 to 8.
+Player can choose puzzle's width (level) from 2 to 8.
 
 The game was created using HTML, CSS and Vanilla JavaScript.
 
