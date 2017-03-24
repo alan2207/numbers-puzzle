@@ -6,4 +6,4 @@ Player can choose boards width (level) from 2 to 8.
 
 The game is created using HTML, CSS and Vanilla JavaScript.
 
-<a href="https://alan2207.github.io/numbers-puzzle/">Live Demo</a>
+<a href="https://alan2207.github.io/numbers-puzzle/" target="_blank">Live Demo</a>
