@@ -44,7 +44,7 @@ var shuffleButton = document.getElementById('shuffle');
 // 
 shuffleButton.addEventListener('click', function() {
   if(board) {
-    for(var i = 0; i < 50; i++) {
+    for(var i = 0; i < (50 * level); i++) {
       shuffle();
     }
   }
